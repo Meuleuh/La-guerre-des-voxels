@@ -1,0 +1,21 @@
+Concepts du jeu:
+- Modèles basés sur les voxels
+- Gestion des ressources
+- Personnalisation des armes
+- Personnalisation des armures
+- Système de recherches
+- Système de progression
+- Système de random pour la génération des troupes
+- Système de production des éléments
+- Système de capture de territoire
+
+Idées pour le jeu
+- Utiliser des palettes pour personnaliser les objets
+- Utiliser des parties de voxels préfaites pour personnaliser les objets selon des statistiques
+- Faire un système de personnalisation d'armes avec la possibilité de produires plusieurs types selon
+- Faire un système de traits uniques pour chaque troupe (stats, traits de caractères)
+- Faire un système de stats PRÉCISES pour les vrais stratèges
+- Faire un système de visualisation des modèles 3D pour l'éditage des armes
+
+Choses à apprendre pour faciliter le développement
+- Trouver un moyen de séparer un même modèle en plusieurs parties ayant chacune sa propre palette de couleur pour réduire la quantité de palette à créer (Au lieu de toutes les possibilités = une palette chacune, faire que chaque type de matériaux ne soit qu'une seule palette, indépendament du matériau des autres parties)
