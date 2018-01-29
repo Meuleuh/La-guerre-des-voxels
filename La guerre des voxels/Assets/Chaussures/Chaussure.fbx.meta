@@ -8,9 +8,11 @@ ModelImporter:
     100000: //RootNode
     400000: //RootNode
     2100000: palette
+    2100002: palette.001
     2300000: //RootNode
     3300000: //RootNode
     4300000: Chaussure
+    4300002: Chaussure.003
   externalObjects: {}
   materials:
     importMaterials: 1

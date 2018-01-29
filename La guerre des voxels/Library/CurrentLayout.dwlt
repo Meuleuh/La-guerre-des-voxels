@@ -42,7 +42,7 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 635
-  m_MinSize: {x: 681, y: 492}
+  m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
   controlID: 9
@@ -89,8 +89,8 @@ MonoBehaviour:
     y: 0
     width: 270
     height: 364
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -206,7 +206,7 @@ MonoBehaviour:
     y: 0
     width: 1089
     height: 635
-  m_MinSize: {x: 404, y: 492}
+  m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
   controlID: 10
@@ -230,8 +230,8 @@ MonoBehaviour:
     y: 0
     width: 1089
     height: 364
-  m_MinSize: {x: 404, y: 221}
-  m_MaxSize: {x: 8004, y: 4021}
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
   controlID: 11
 --- !u!114 &11
@@ -336,10 +336,10 @@ MonoBehaviour:
   m_LastProjectPath: C:\Users\jcgroleau\Documents\Unity\La guerre des voxels
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6a290000
-    m_LastClickedID: 10602
-    m_ExpandedIDs: 000000006a290000722900008c290000c2290000322a0000502a00005e2a0000842a0000762b00005c2c0000f42c0000f82c0000162d0000be2d0000d22d00007e2e0000f62e000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 7}
+    m_SelectedIDs: 5c2d0000
+    m_LastClickedID: 11612
+    m_ExpandedIDs: 000000005c2d0000622d0000722d00008e2d0000a02d0000c02d0000d42d0000da2d0000ee2d0000722e0000e62e00004a2f00004e2f00005e2f0000b82f0000c42f00002e3000006e30000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -367,7 +367,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006a290000722900008c290000c2290000e6290000322a0000502a0000842a0000762b00005c2c0000f42c0000f82c0000162d0000be2d0000d22d00007e2e0000f62e0000
+    m_ExpandedIDs: 000000005c2d0000622d0000722d00008e2d0000a02d0000c02d0000d42d0000da2d0000ee2d0000722e0000e62e00004a2f00004e2f00005e2f0000b82f0000c42f00002e3000006e300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -394,7 +394,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -449,7 +449,7 @@ MonoBehaviour:
     width: 275
     height: 614
   m_PersistentViewDataDictionary: {fileID: 0}
-  m_ScrollPosition: {x: 0, y: 0}
+  m_ScrollPosition: {x: 0, y: 180}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 160
@@ -485,9 +485,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 542f0000
-    m_LastClickedID: 12116
-    m_ExpandedIDs: 96fbffff00000000
+    m_SelectedIDs: a6300000
+    m_LastClickedID: 12454
+    m_ExpandedIDs: aaf5ffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -543,9 +543,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 4.20467, y: 2.253828, z: 2.3672533}
+    m_Target: {x: 8.707392, y: 1.8318338, z: -0.801219}
     speed: 2
-    m_Value: {x: 4.20467, y: 2.253828, z: 2.3672533}
+    m_Value: {x: 8.707392, y: 1.8318338, z: -0.801219}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -569,13 +569,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.19176812, y: 0.7852513, z: -0.2958487, w: -0.5089979}
+    m_Target: {x: -0.05760113, y: 0.93354046, z: -0.30761525, w: -0.17480664}
     speed: 2
-    m_Value: {x: -0.19176812, y: 0.7852513, z: -0.2958487, w: -0.5089979}
+    m_Value: {x: -0.057601124, y: 0.93354034, z: -0.30761522, w: -0.17480662}
   m_Size:
-    m_Target: 19.898392
+    m_Target: 17.37739
     speed: 2
-    m_Value: 19.898392
+    m_Value: 17.37739
   m_Ortho:
     m_Target: 0
     speed: 2
