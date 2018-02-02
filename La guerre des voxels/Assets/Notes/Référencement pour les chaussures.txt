@@ -1,0 +1,18 @@
+X... = Couleur principale
+.X.. = Couleur de la semelle
+..X. = Couleur des lacets
+...X = Couleur des détails
+
+0 = Noir
+1 = Blanc
+2 = Jaune
+3 = Vert
+4 = Orange
+5 = Rouge
+6 = Bleu
+7 = Mauve-rouge
+8 = Mauve
+9 = Gris
+10 = Rose
+11 = Cyan
+12 = Vert clair

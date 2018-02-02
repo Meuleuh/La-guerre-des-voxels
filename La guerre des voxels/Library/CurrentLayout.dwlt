@@ -327,19 +327,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Chaussures
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Chaussures
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\jcgroleau\Documents\Unity\La guerre des voxels
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 7}
-    m_SelectedIDs: 5c2d0000
-    m_LastClickedID: 11612
-    m_ExpandedIDs: 000000005c2d0000622d0000722d00008e2d0000a02d0000c02d0000d42d0000da2d0000ee2d0000722e0000e62e00004a2f00004e2f00005e2f0000b82f0000c42f00002e3000006e30000000ca9a3bffffff7f
+    m_SelectedIDs: 70c70200
+    m_LastClickedID: 182128
+    m_ExpandedIDs: 00000000dcc60200e2c60200f2c602000ec7020020c7020042c7020056c702005cc7020070c70200f4c7020068c80200ccc80200d0c80200e0c802003ac9020046c90200b2c90200f2c9020000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -367,7 +367,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005c2d0000622d0000722d00008e2d0000a02d0000c02d0000d42d0000da2d0000ee2d0000722e0000e62e00004a2f00004e2f00005e2f0000b82f0000c42f00002e3000006e300000
+    m_ExpandedIDs: 00000000dcc60200e2c60200f2c602000ec7020020c7020042c7020056c702005cc7020070c70200f4c7020068c80200ccc80200d0c80200e0c802003ac9020046c90200b2c90200f2c90200
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -449,7 +449,7 @@ MonoBehaviour:
     width: 275
     height: 614
   m_PersistentViewDataDictionary: {fileID: 0}
-  m_ScrollPosition: {x: 0, y: 180}
+  m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 160
@@ -485,9 +485,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a6300000
-    m_LastClickedID: 12454
-    m_ExpandedIDs: aaf5ffff00000000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 96fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -543,9 +543,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 8.707392, y: 1.8318338, z: -0.801219}
+    m_Target: {x: 1.8469305, y: -2.7106314, z: -2.0557423}
     speed: 2
-    m_Value: {x: 8.707392, y: 1.8318338, z: -0.801219}
+    m_Value: {x: 1.8469305, y: -2.7106314, z: -2.0557423}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -569,13 +569,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.05760113, y: 0.93354046, z: -0.30761525, w: -0.17480664}
+    m_Target: {x: -0.136416, y: 0.8582017, z: -0.2942527, w: -0.3978643}
     speed: 2
-    m_Value: {x: -0.057601124, y: 0.93354034, z: -0.30761522, w: -0.17480662}
+    m_Value: {x: -0.136416, y: 0.8582017, z: -0.2942527, w: -0.3978643}
   m_Size:
-    m_Target: 17.37739
+    m_Target: 26.986557
     speed: 2
-    m_Value: 17.37739
+    m_Value: 26.986557
   m_Ortho:
     m_Target: 0
     speed: 2
