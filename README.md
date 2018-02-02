@@ -8,3 +8,5 @@ This game will initially be only in French, the English version will be created 
 
 Ce petit jeu... encore en développement est un jeu de gestion (de ressources et de troupes) sera basé sur le style graphique des voxels et vous permetteras de personnaliser vos équipement selon une multitude de teinte et de matériaux, chacun avec des propriétés spéciales (sauf pour les simples teintures) 
 *À implémenter*
+
+De plus, un petit wiki *que je crée durant les temps libres où je ne peux pas travailler sur le jeu* est en développement et va regrouper toutes les informations sur le jeu *même si pour l'instant, y'a pas grand chose à dire*
