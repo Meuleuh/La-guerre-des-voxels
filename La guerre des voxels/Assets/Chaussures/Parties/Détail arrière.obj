@@ -1,8 +1,5 @@
 # MagicaVoxel @ Ephtracy
 
-# group
-g Détail arrière
-
 # material
 mtllib Détail arrière.mtl
 usemtl palette

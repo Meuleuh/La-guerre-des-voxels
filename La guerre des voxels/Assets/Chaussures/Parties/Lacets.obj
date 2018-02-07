@@ -1,8 +1,5 @@
 # MagicaVoxel @ Ephtracy
 
-# group
-g Lacets
-
 # material
 mtllib Lacets.mtl
 usemtl palette

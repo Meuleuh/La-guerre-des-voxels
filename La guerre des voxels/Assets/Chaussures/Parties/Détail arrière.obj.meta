@@ -1,24 +1,21 @@
 fileFormatVersion: 2
 guid: c7925835e1bf8094893f6a121266d197
-timeCreated: 1517614162
+timeCreated: 1518020070
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: default
     100002: //RootNode
-    100004: D_tail_arri_re
+    100004: "D\xE9tail arri\xE8re_root"
     400000: default
     400002: //RootNode
-    400004: D_tail_arri_re
+    400004: "D\xE9tail arri\xE8re_root"
     2100000: defaultMat
-    2100002: D_tail_arri_reMat
     2300000: default
-    2300002: D_tail_arri_re
     3300000: default
-    3300002: D_tail_arri_re
     4300000: default
-    4300002: D_tail_arri_re
+    6400000: default
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -51,7 +48,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1

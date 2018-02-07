@@ -1,8 +1,5 @@
 # MagicaVoxel @ Ephtracy
 
-# group
-g Semelle
-
 # material
 mtllib Semelle.mtl
 usemtl palette

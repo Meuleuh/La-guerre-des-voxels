@@ -1,24 +1,21 @@
 fileFormatVersion: 2
 guid: 0ff9401494286b745b66ae5311176b2c
-timeCreated: 1517614161
+timeCreated: 1518020069
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: default
     100002: //RootNode
-    100004: Lacets
+    100004: Lacets_root
     400000: default
     400002: //RootNode
-    400004: Lacets
+    400004: Lacets_root
     2100000: defaultMat
-    2100002: palette
     2300000: default
-    2300002: Lacets
     3300000: default
-    3300002: Lacets
     4300000: default
-    4300002: Lacets
+    6400000: default
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -51,7 +48,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
