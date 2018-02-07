@@ -7,12 +7,18 @@ ModelImporter:
   fileIDToRecycleName:
     100000: default
     100002: //RootNode
+    100004: D_tail_c_t_
     400000: default
     400002: //RootNode
+    400004: D_tail_c_t_
     2100000: defaultMat
+    2100002: D_tail_c_t_Mat
     2300000: default
+    2300002: D_tail_c_t_
     3300000: default
+    3300002: D_tail_c_t_
     4300000: default
+    4300002: D_tail_c_t_
   externalObjects: {}
   materials:
     importMaterials: 1

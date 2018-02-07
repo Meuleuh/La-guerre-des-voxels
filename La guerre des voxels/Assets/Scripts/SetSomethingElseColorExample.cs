@@ -4,68 +4,69 @@ using UnityEngine;
 
 public class SetSomethingElseColorExample : MonoBehaviour
 {
-
     GameObject Semelle;
-    Renderer CouleurSemelle;
-
+    Renderer RendererSemelle;
     GameObject Lacets;
-    Renderer CouleurLacets;
-
-    GameObject CouleurPrincipale;
-    Renderer CouleurCouleurPrincipale;
-
-    GameObject DetailCote;
-    Renderer CouleurDetailCote;
-
-    GameObject DetailAvant;
-    Renderer CouleurDetailAvant;
-
-    GameObject DetailArriere;
-    Renderer CouleurDetailArriere;
+    Renderer RendererLacets;
+    GameObject PartiePrincipale;
+    Renderer RendererPartiePrincipale;
+    GameObject DétailCôté;
+    Renderer RendererDétailCôté;
+    GameObject DétailAvant;
+    Renderer RendererDétailAvant;
+    GameObject DétailArrière;
+    Renderer RendererDétailArrière;
 
     [SerializeField]
-    Color CouleurPourSemelle;
+    Color CouleurSemelle;
 
     [SerializeField]
-    Color CouleurPourLacets;
+    Color CouleurLacets;
 
     [SerializeField]
-    Color CouleurPourCouleurPrincipale;
+    Color CouleurPartiePrincipale;
 
     [SerializeField]
-    Color CouleurPourDetailCote;
+    Color CouleurDétailCôté;
 
     [SerializeField]
-    Color CouleurPourDetailAvant;
+    Color CouleurDétailAvant;
 
     [SerializeField]
-    Color CouleurPourDetailArriere;
+    Color CouleurDétailArrière;
 
+    [SerializeField]
+    GameObject Chaussure;
+
+    GameObject ChaussureActuelle;
     // Use this for initialization
     void Start()
     {
-        Semelle = GameObject.Find("Chaussure/Semelle");
-        CouleurSemelle = Semelle.GetComponent<Renderer>();
-        Lacets = GameObject.Find("Chaussure/Lacets");
-        CouleurLacets = Lacets.GetComponent<Renderer>();
-        CouleurPrincipale = GameObject.Find("Chaussure/CouleurPrincipale");
-        CouleurCouleurPrincipale = CouleurPrincipale.GetComponent<Renderer>();
-        DetailCote = GameObject.Find("Chaussure/DetailCote");
-        CouleurDetailCote = DetailCote.GetComponent<Renderer>();
-        DetailAvant = GameObject.Find("Chaussure/DetailAvant");
-        CouleurDetailAvant = DetailAvant.GetComponent<Renderer>();
-        DetailArriere = GameObject.Find("Chaussure/DetailArriere");
-        CouleurDetailArriere = DetailArriere.GetComponent<Renderer>();
+        ChaussureActuelle = Instantiate(Chaussure);
+        Semelle = ChaussureActuelle.transform.Find("Semelle").gameObject;
+        Lacets = ChaussureActuelle.transform.Find("Lacets").gameObject;
+        PartiePrincipale = ChaussureActuelle.transform.Find("Partie principale").gameObject;
+        DétailCôté = ChaussureActuelle.transform.Find("Détail côté").gameObject;
+        DétailAvant = ChaussureActuelle.transform.Find("Détail avant").gameObject;
+        DétailArrière = ChaussureActuelle.transform.Find("Détail arrière").gameObject;
+        RendererSemelle = Semelle.GetComponent<Renderer>();
+        RendererLacets = Lacets.GetComponent<Renderer>();
+        RendererPartiePrincipale = PartiePrincipale.GetComponent<Renderer>();
+        RendererDétailCôté = DétailCôté.GetComponent<Renderer>();
+        RendererDétailAvant = DétailAvant.GetComponent<Renderer>();
+        RendererDétailArrière = DétailArrière.GetComponent<Renderer>();
+
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        CouleurSemelle.material.SetColor("_Color", CouleurPourSemelle);
-        CouleurLacets.material.SetColor("_Color", CouleurPourLacets);
-        CouleurCouleurPrincipale.material.SetColor("_Color", CouleurPourCouleurPrincipale);
-        CouleurDetailCote.material.SetColor("_Color", CouleurPourDetailCote);
-        CouleurDetailAvant.material.SetColor("_Color", CouleurPourDetailAvant);
-        CouleurDetailArriere.material.SetColor("_Color", CouleurPourDetailArriere);
+        RendererSemelle.material.SetColor("_Color", CouleurSemelle);
+        RendererLacets.material.SetColor("_Color", CouleurLacets);
+        RendererPartiePrincipale.material.SetColor("_Color", CouleurPartiePrincipale);
+        RendererDétailCôté.material.SetColor("_Color", CouleurDétailCôté);
+        RendererDétailAvant.material.SetColor("_Color", CouleurDétailAvant);
+        RendererDétailArrière.material.SetColor("_Color", CouleurDétailArrière);
     }
 }

@@ -7,12 +7,18 @@ ModelImporter:
   fileIDToRecycleName:
     100000: default
     100002: //RootNode
+    100004: Semelle
     400000: default
     400002: //RootNode
+    400004: Semelle
     2100000: defaultMat
+    2100002: palette
     2300000: default
+    2300002: Semelle
     3300000: default
+    3300002: Semelle
     4300000: default
+    4300002: Semelle
   externalObjects: {}
   materials:
     importMaterials: 1
