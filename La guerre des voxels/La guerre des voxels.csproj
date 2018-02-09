@@ -324,7 +324,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\ExempleDeTirSurLePistoletDeBase.cs" />
     <Compile Include="Assets\Scripts\SetSomethingElseColorExample.cs" />
+    <Compile Include="Assets\Scripts\SpawnSomethingOnLoad.cs" />
     <Compile Include="Assets\Scripts\TestPression.cs" />
   </ItemGroup>
   <ItemGroup>

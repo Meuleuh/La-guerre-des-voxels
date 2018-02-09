@@ -152,92 +152,14 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 114660376840954914, guid: c182dc8b4b23d4c4a85d9f0c245e4da3,
-        type: 2}
-      propertyPath: ChaussureGauche
-      value: 
-      objectReference: {fileID: 1930616501819796, guid: 1ea6e8f46f790d24e85e32d6ad95efbc,
-        type: 2}
-    - target: {fileID: 114660376840954914, guid: c182dc8b4b23d4c4a85d9f0c245e4da3,
-        type: 2}
-      propertyPath: ChaussureDroite
-      value: 
-      objectReference: {fileID: 1367955873691776, guid: 217ac53ed9bdf3a45a1f959aec87edda,
-        type: 2}
-    - target: {fileID: 23173749616352346, guid: c182dc8b4b23d4c4a85d9f0c245e4da3,
-        type: 2}
-      propertyPath: m_ReflectionProbeUsage
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 23173749616352346, guid: c182dc8b4b23d4c4a85d9f0c245e4da3,
-        type: 2}
-      propertyPath: m_ProbeAnchor
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 23173749616352346, guid: c182dc8b4b23d4c4a85d9f0c245e4da3,
-        type: 2}
-      propertyPath: m_CastShadows
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 23173749616352346, guid: c182dc8b4b23d4c4a85d9f0c245e4da3,
-        type: 2}
-      propertyPath: m_ReceiveShadows
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 23173749616352346, guid: c182dc8b4b23d4c4a85d9f0c245e4da3,
-        type: 2}
-      propertyPath: m_MotionVectors
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1107704987192738, guid: c182dc8b4b23d4c4a85d9f0c245e4da3, type: 2}
-      propertyPath: m_StaticEditorFlags
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c182dc8b4b23d4c4a85d9f0c245e4da3, type: 2}
   m_IsPrefabParent: 0
---- !u!1 &559244840 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1107704987192738, guid: c182dc8b4b23d4c4a85d9f0c245e4da3,
-    type: 2}
-  m_PrefabInternal: {fileID: 182337776}
 --- !u!54 &559244842 stripped
 Rigidbody:
   m_PrefabParentObject: {fileID: 54872886856171486, guid: c182dc8b4b23d4c4a85d9f0c245e4da3,
     type: 2}
   m_PrefabInternal: {fileID: 182337776}
---- !u!215 &559244847
-ReflectionProbe:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 559244840}
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Type: 0
-  m_Mode: 1
-  m_RefreshMode: 1
-  m_TimeSlicingMode: 0
-  m_Resolution: 128
-  m_UpdateFrequency: 0
-  m_BoxSize: {x: 20, y: 37.5, z: 20}
-  m_BoxOffset: {x: 0, y: 0.17056122, z: 0}
-  m_NearClip: 0.01
-  m_FarClip: 1000
-  m_ShadowDistance: 100
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IntensityMultiplier: 1
-  m_BlendDistance: 1
-  m_HDR: 1
-  m_BoxProjection: 1
-  m_RenderDynamicObjects: 0
-  m_UseOcclusionCulling: 1
-  m_Importance: 1
-  m_CustomBakedTexture: {fileID: 0}
 --- !u!1 &752786512
 GameObject:
   m_ObjectHideFlags: 0
