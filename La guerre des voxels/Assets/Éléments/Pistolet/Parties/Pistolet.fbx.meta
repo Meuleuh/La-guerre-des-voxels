@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 365dad0ffbbf48943acadde9456e5412
+timeCreated: 1518364110
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Balle
+    100002: Chargeur
+    100004: Chien
+    100006: Crosse droite
+    100008: Crosse gauche
+    100010: Douille
+    100012: Gachette
+    100014: Partie arri___re de la partie principale
+    100016: Partie avant de la partie principale
+    100018: Partie droite de la partie principale
+    100020: Partie droite du cannon
+    100022: Partie gauche de la partie principale
+    100024: Partie gauche du cannon
+    100026: Partie inf___rieure droite du cannon
+    100028: Partie inf___rieure du cannon.001
+    100030: Partie inf___rieure gauche du cannon
+    100032: Partie sup___rieure droite du cannon
+    100034: Partie sup___rieure du cannon
+    100036: Partie sup___rieure gauche du cannon
+    100038: //RootNode
+    100040: Partie inf___rieure du cannon
+    400000: Balle
+    400002: Chargeur
+    400004: Chien
+    400006: Crosse droite
+    400008: Crosse gauche
+    400010: Douille
+    400012: Gachette
+    400014: Partie arri___re de la partie principale
+    400016: Partie avant de la partie principale
+    400018: Partie droite de la partie principale
+    400020: Partie droite du cannon
+    400022: Partie gauche de la partie principale
+    400024: Partie gauche du cannon
+    400026: Partie inf___rieure droite du cannon
+    400028: Partie inf___rieure du cannon.001
+    400030: Partie inf___rieure gauche du cannon
+    400032: Partie sup___rieure droite du cannon
+    400034: Partie sup___rieure du cannon
+    400036: Partie sup___rieure gauche du cannon
+    400038: //RootNode
+    400040: Partie inf___rieure du cannon
+    2100000: palette.019
+    2100002: palette.018
+    2100004: palette.017
+    2100006: palette.016
+    2100008: palette.015
+    2100010: palette.013
+    2100012: palette.012
+    2100014: palette.011
+    2100016: palette.010
+    2100018: palette.009
+    2100020: palette.008
+    2100022: palette.007
+    2100024: palette.006
+    2100026: palette.005
+    2100028: palette.004
+    2100030: palette.003
+    2100032: palette.002
+    2100034: palette.001
+    2100036: palette
+    2100038: palette.014
+    2300000: Balle
+    2300002: Chargeur
+    2300004: Chien
+    2300006: Crosse droite
+    2300008: Crosse gauche
+    2300010: Douille
+    2300012: Gachette
+    2300014: Partie arri___re de la partie principale
+    2300016: Partie avant de la partie principale
+    2300018: Partie droite de la partie principale
+    2300020: Partie droite du cannon
+    2300022: Partie gauche de la partie principale
+    2300024: Partie gauche du cannon
+    2300026: Partie inf___rieure droite du cannon
+    2300028: Partie inf___rieure du cannon.001
+    2300030: Partie inf___rieure gauche du cannon
+    2300032: Partie sup___rieure droite du cannon
+    2300034: Partie sup___rieure du cannon
+    2300036: Partie sup___rieure gauche du cannon
+    2300038: Partie inf___rieure du cannon
+    3300000: Balle
+    3300002: Chargeur
+    3300004: Chien
+    3300006: Crosse droite
+    3300008: Crosse gauche
+    3300010: Douille
+    3300012: Gachette
+    3300014: Partie arri___re de la partie principale
+    3300016: Partie avant de la partie principale
+    3300018: Partie droite de la partie principale
+    3300020: Partie droite du cannon
+    3300022: Partie gauche de la partie principale
+    3300024: Partie gauche du cannon
+    3300026: Partie inf___rieure droite du cannon
+    3300028: Partie inf___rieure du cannon.001
+    3300030: Partie inf___rieure gauche du cannon
+    3300032: Partie sup___rieure droite du cannon
+    3300034: Partie sup___rieure du cannon
+    3300036: Partie sup___rieure gauche du cannon
+    3300038: Partie inf___rieure du cannon
+    4300000: Partie inf___rieure du cannon.001
+    4300002: Partie sup___rieure gauche du cannon
+    4300004: Partie sup___rieure du cannon
+    4300006: Partie sup___rieure droite du cannon
+    4300008: Partie inf___rieure gauche du cannon
+    4300010: Partie inf___rieure droite du cannon
+    4300012: Partie gauche du cannon
+    4300014: Partie gauche de la partie principale
+    4300016: Partie droite du cannon
+    4300018: Partie droite de la partie principale
+    4300020: Partie avant de la partie principale
+    4300022: Partie arri___re de la partie principale
+    4300024: Gachette
+    4300026: Douille
+    4300028: Crosse gauche
+    4300030: Crosse droite
+    4300032: Chien
+    4300034: Chargeur
+    4300036: Balle
+    4300038: Partie inf___rieure du cannon
+    6400000: Balle
+    6400002: Chargeur
+    6400004: Chien
+    6400006: Crosse droite
+    6400008: Crosse gauche
+    6400010: Douille
+    6400012: Gachette
+    6400014: Partie arri___re de la partie principale
+    6400016: Partie avant de la partie principale
+    6400018: Partie droite de la partie principale
+    6400020: Partie droite du cannon
+    6400022: Partie gauche de la partie principale
+    6400024: Partie gauche du cannon
+    6400026: Partie inf___rieure droite du cannon
+    6400028: Partie inf___rieure du cannon.001
+    6400030: Partie inf___rieure gauche du cannon
+    6400032: Partie sup___rieure droite du cannon
+    6400034: Partie sup___rieure du cannon
+    6400036: Partie sup___rieure gauche du cannon
+    6400038: Partie inf___rieure du cannon
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette
+    second: {fileID: 2100000, guid: ae041d402a0cb3e4db5881ec24aaa6f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.001
+    second: {fileID: 2100000, guid: c69b4f26c8c29db4d8732b33f963f2e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.002
+    second: {fileID: 2100000, guid: 6f7d04a604f585f47a52e6ca93caa839, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.003
+    second: {fileID: 2100000, guid: 1d8422d891e2e3244b592aeef40e2c2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.004
+    second: {fileID: 2100000, guid: 1d8422d891e2e3244b592aeef40e2c2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.005
+    second: {fileID: 2100000, guid: 2e2eeb7a9c6c86b4ea71342e6dbe9f03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.006
+    second: {fileID: 2100000, guid: cc449d408ea989c4d8de2c7592051c65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.007
+    second: {fileID: 2100000, guid: 3b9ef77b48ab633498679f945089d628, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.008
+    second: {fileID: 2100000, guid: 3b9ef77b48ab633498679f945089d628, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.009
+    second: {fileID: 2100000, guid: 3b9ef77b48ab633498679f945089d628, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.010
+    second: {fileID: 2100000, guid: cc418df0f81fb4d42abc25bb8db62a89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.011
+    second: {fileID: 2100000, guid: 3b9ef77b48ab633498679f945089d628, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.012
+    second: {fileID: 2100000, guid: cc418df0f81fb4d42abc25bb8db62a89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.013
+    second: {fileID: 2100000, guid: cc418df0f81fb4d42abc25bb8db62a89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.015
+    second: {fileID: 2100000, guid: cc418df0f81fb4d42abc25bb8db62a89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.016
+    second: {fileID: 2100000, guid: cc418df0f81fb4d42abc25bb8db62a89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.017
+    second: {fileID: 2100000, guid: cc418df0f81fb4d42abc25bb8db62a89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.018
+    second: {fileID: 2100000, guid: cc418df0f81fb4d42abc25bb8db62a89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.019
+    second: {fileID: 2100000, guid: cc418df0f81fb4d42abc25bb8db62a89, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.25
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -23,7 +23,6 @@ GameObject:
   - component: {fileID: 23405926781486136}
   - component: {fileID: 64660473211708788}
   - component: {fileID: 54851138030251010}
-  - component: {fileID: 114722534887688818}
   - component: {fileID: 114129765353835396}
   m_Layer: 0
   m_Name: Pillier pour le pistolet
@@ -39,7 +38,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1645286973712294}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.98742485, y: -0.4328847, z: -2.931725}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -126,18 +125,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70f0f31ff628acd4a927d24e92026387, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ObjectToSpawn: {fileID: 1433699036556054, guid: 2bfa6825f5f84c644bf1d70e8336396d,
+  ObjectToSpawn: {fileID: 1531877608202144, guid: 2bfa6825f5f84c644bf1d70e8336396d,
     type: 2}
---- !u!114 &114722534887688818
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1645286973712294}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e89b31809945bd74baf3bdabfccb5eeb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Pistolet: {fileID: 1433699036556054, guid: 2bfa6825f5f84c644bf1d70e8336396d, type: 2}
-  Balle: {fileID: 1374202913345748, guid: e5100e92ff0c32e4fa20f70f24d549e0, type: 2}
